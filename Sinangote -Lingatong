@@ -1,5 +1,3 @@
-# aterona
-project-business
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -15,7 +13,7 @@ project-business
                 <h1>Brewing Bonds Cafe</h1>
                 <p class="tagline">Just like the best coffee, true love takes time to develop, but when you find it, every moment is worth the wait.</p>
             </div>
-            <nav>
+            <nav>            
                 <ul class="nav-links">
                     <li><a href="#home">Home</a></li>
                     <li><a href="#about">About Us</a></li>
@@ -147,6 +145,7 @@ project-business
             alert("Thank You for your purchase!");
         }
     </script>
+      
 
 </body>
 </html>
@@ -522,7 +521,7 @@ footer {
 
 }
 
-/*Responsive Design */
+/*Responsive Design*/
 
 @media (max-width: 600px) {
 .hero {
@@ -564,4 +563,3 @@ footer {
     
  </body>
  </html>
-Rona
